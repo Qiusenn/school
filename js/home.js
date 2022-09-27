@@ -18,5 +18,6 @@
 // }
 
 
-var person=prompt("请输入你的名字","输入进校或出校");
-console.log(person);
+// var person=prompt("请输入你的名字","输入进校或出校");
+// console.log(person);
+
